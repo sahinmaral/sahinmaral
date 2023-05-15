@@ -5,8 +5,6 @@
 I have been currently studying at Istanbul Commerce University at third grade. I have been working on being a Full-Stack Developer. Mostly I have been working at .NET , Javascript , React , Node.JS , MSSQL , Mongo DB and so on. At this year I'm going to <b><u> build a project consists of software and hardware. </b></u>. Since my childhood , I always dream about being computer engineer and today I'm living in my dream. 
 </i></p>
 
-![](https://i.pinimg.com/originals/44/59/8f/44598f0b489e869c0941e12873f1f4c2.gif)
-
 <h2 align="left" style="margin-bottom:20px;">🧰 Languages and Tools </h2>
 
 <details style="font-size:20px">
@@ -36,8 +34,6 @@ I have been currently studying at Istanbul Commerce University at third grade. I
 
 </details>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahinmaral&show_icons=true&locale=en&layout=compact" alt="sahinmaral" />
-</p>
 
-[![Şahin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sahinmaral&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
