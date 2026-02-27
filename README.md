@@ -16,7 +16,7 @@ Full-Stack Developer with 20+ months of professional experience specializing in 
 
 ## 🧰 Languages and Tools
 
-<details open>
+<details>
 <summary><b>Languages</b></summary>
 <br>
 
@@ -28,7 +28,7 @@ Full-Stack Developer with 20+ months of professional experience specializing in 
 
 </details>
 
-<details open>
+<details>
 <summary><b>Back-End Technologies</b></summary>
 <br>
 
@@ -39,7 +39,7 @@ Full-Stack Developer with 20+ months of professional experience specializing in 
 
 </details>
 
-<details open>
+<details>
 <summary><b>Front-End & Mobile Technologies</b></summary>
 <br>
 
@@ -51,7 +51,7 @@ Full-Stack Developer with 20+ months of professional experience specializing in 
 
 </details>
 
-<details open>
+<details>
 <summary><b>Database Technologies</b></summary>
 <br>
 
@@ -63,7 +63,7 @@ Full-Stack Developer with 20+ months of professional experience specializing in 
 
 </details>
 
-<details open>
+<details>
 <summary><b>DevOps & Tools</b></summary>
 <br>
 
